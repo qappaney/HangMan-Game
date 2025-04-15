@@ -1,0 +1,6 @@
+Apple banana cow dog cat 
+java
+python
+pandas 
+tikinter
+opencv
